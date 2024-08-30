@@ -8,6 +8,6 @@ cin >> a;
 int b;
 cin >> b;
 int c = a + b;
-cout << c;
+cout << "Res: " << c;
 return 0;
 }
